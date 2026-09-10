@@ -407,7 +407,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ---
 
 ## 👤 Author & Contact
-- **Author**: AI/ML Engineer & ECE Graduate
-- **GitHub**: [@your-username](https://github.com/your-username)
-- **LinkedIn**: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- **Portfolio**: [your-portfolio.com](https://your-portfolio.com)
+
+- **Author:** AI/ML Engineer & ECE Graduate
+- **GitHub:** [@pbbalaji77](https://github.com/pbbalaji77)
+- **LinkedIn:** [P B Balaji](https://www.linkedin.com/in/pbalaji-ai)
