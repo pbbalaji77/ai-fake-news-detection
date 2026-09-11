@@ -365,13 +365,29 @@ This project is pre-configured for instant zero-configuration deployment to **St
 ---
 
 ## 📸 Screenshots Gallery
-Portfolio screenshots can be stored in `assets/screenshots/`:
-- `home_screen.png`: Landing page with article input and example buttons.
-- `real_prediction.png`: Credible news analysis with green result card and text metrics.
-- `fake_prediction.png`: Misleading news analysis with sensationalism index and red result card.
-- `model_comparison.png`: Performance chart across candidate models.
-- `confusion_matrices.png`: Side-by-side heatmaps of confusion matrices.
-- `eda_distributions.png`: Dataset class balance and word count spread.
+Portfolio screenshots are available in `assets/screenshots/`.
+
+### 🖥️ Application Dashboard
+
+![AI Fake News Detection Dashboard](assets/screenshots/main-Dashboard.png)
+
+### ✅ REAL News Prediction
+
+![REAL News Prediction](assets/screenshots/Real-news-result.png)
+
+### ⚠️ FAKE / Misleading News Prediction
+
+![FAKE News Prediction](assets/screenshots/Fake-news-result.png)
+
+### 📊 Model Evaluation & Analysis
+
+![Model Comparison](assets/screenshots/model_comparison.png)
+
+![Confusion Matrices](assets/screenshots/confusion_matrices.png)
+
+![EDA Class Distribution](assets/screenshots/eda_class_distribution.png)
+
+![EDA Word Count Distribution](assets/screenshots/eda_word_count_distribution.png).
 
 ---
 
