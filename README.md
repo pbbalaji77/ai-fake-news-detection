@@ -11,8 +11,9 @@
 ---
 
 ## 🔗 Live Demo & Links
-- **Live Streamlit Application**: [https://fake-news-detector.streamlit.app](https://fake-news-detector.streamlit.app) *(Replace with your deployed URL)*
-- **GitHub Repository**: [https://github.com/your-username/ai-fake-news-detection-system](https://github.com/your-username/ai-fake-news-detection-system) *(Replace with your repository URL)*
+
+- **Live Streamlit Application:** [AI Fake News Detection System](https://ai-fake-news-detection-2026.streamlit.app/)
+- **GitHub Repository:** [ai-fake-news-detection](https://github.com/pbbalaji77/ai-fake-news-detection)
 
 ---
 
